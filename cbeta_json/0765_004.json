@@ -1,7 +1,7 @@
 [
   {
     "segmentnr":"t0678c05",
-    "original":"2本事經卷第四"
+    "original":"本事經卷第四"
   },
   {
     "segmentnr":"t0678c07",
@@ -17,15 +17,19 @@
   },
   {
     "segmentnr":"t0678c09",
-    "original":"「苾芻當知！若有苾芻減省睡眠，具念正知，心常安住悅豫清淨，於諸善法善觀時宜而正修習。"
+    "original":"「苾芻當知！若有苾芻減省睡眠，具念正知，心常安住悅豫清淨。"
+  },
+  {
+    "segmentnr":"t0678c10",
+    "original":"「於諸善法善觀時，宜而正修習。"
+  },
+  {
+    "segmentnr":"t0678c11",
+    "original":"如是苾芻減省睡眠，具念正知，心常安住悅豫清淨，於諸善法善觀時宜而正修習，於二果中：隨證一果，謂於現法或證有餘依涅槃界，或不還果。」¶"
   },
   {
     "segmentnr":"t0678c15",
-    "original":"如是苾芻減省睡眠，具念正知，心常安住悅豫清淨，於諸善法善觀時宜而正修習，於二果中，隨證一果，謂於現法或證有餘依涅槃界，或不還果。」"
-  },
-  {
-    "segmentnr":"t0678c15",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0678c16",
@@ -41,7 +45,7 @@
   },
   {
     "segmentnr":"t0678c17",
-    "original":"都無有所得。"
+    "original":"都無有所得。@"
   },
   {
     "segmentnr":"t0678c18",
@@ -57,7 +61,7 @@
   },
   {
     "segmentnr":"t0678c19",
-    "original":"常悅豫清淨。"
+    "original":"常悅豫清淨。@"
   },
   {
     "segmentnr":"t0678c20",
@@ -73,7 +77,7 @@
   },
   {
     "segmentnr":"t0678c21",
-    "original":"生老病死苦。"
+    "original":"生老病死苦。@"
   },
   {
     "segmentnr":"t0678c22",
@@ -89,7 +93,7 @@
   },
   {
     "segmentnr":"t0678c23",
-    "original":"得二果無疑。"
+    "original":"得二果無疑。@"
   },
   {
     "segmentnr":"t0678c24",
@@ -105,7 +109,7 @@
   },
   {
     "segmentnr":"t0678c25",
-    "original":"度生老病死。」"
+    "original":"度生老病死。」@"
   },
   {
     "segmentnr":"t0678c26",
@@ -113,19 +117,19 @@
   },
   {
     "segmentnr":"t0678c26",
-    "original":"「苾芻當知！若有苾芻於空閑處，常樂宴坐，勤修內心奢摩他定，不離靜慮，成就明淨毘鉢舍那，守護自心令無散亂，於諸善法修集無厭。"
+    "original":"「苾芻當知！若有苾芻於空閑處，常樂宴坐，勤修內心奢摩他定，不離靜慮，成就明淨毘鉢舍那。"
+  },
+  {
+    "segmentnr":"t0678c28",
+    "original":"守護自心令無散亂，於諸善法修集無厭。"
+  },
+  {
+    "segmentnr":"t0678c29",
+    "original":"如是苾芻於二果中，我說定能隨證一果，謂於現法，或證有餘依涅槃界；或不還果。」¶"
   },
   {
     "segmentnr":"t0679a02",
-    "original":"如是苾芻於二果中，我說定能隨證一果，謂於現法，或證有餘依涅槃界；"
-  },
-  {
-    "segmentnr":"t0679a02",
-    "original":"或不還果。」"
-  },
-  {
-    "segmentnr":"t0679a03",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0679a04",
@@ -141,7 +145,7 @@
   },
   {
     "segmentnr":"t0679a05",
-    "original":"離虛妄分別。"
+    "original":"離虛妄分別。@"
   },
   {
     "segmentnr":"t0679a06",
@@ -157,7 +161,7 @@
   },
   {
     "segmentnr":"t0679a07",
-    "original":"無憂悔歸真。"
+    "original":"無憂悔歸真。@"
   },
   {
     "segmentnr":"t0679a08",
@@ -173,7 +177,7 @@
   },
   {
     "segmentnr":"t0679a09",
-    "original":"永盡諸有貪。"
+    "original":"永盡諸有貪。@"
   },
   {
     "segmentnr":"t0679a10",
@@ -189,7 +193,7 @@
   },
   {
     "segmentnr":"t0679a11",
-    "original":"速證般涅槃。」"
+    "original":"速證般涅槃。」@"
   },
   {
     "segmentnr":"t0679a12",
@@ -200,12 +204,12 @@
     "original":"「苾芻當知！若有苾芻無慚、無愧，彼人決定不能通達、不能遍知，不證等覺、不證涅槃、不能證得無上安樂。"
   },
   {
-    "segmentnr":"t0679a16",
-    "original":"若有苾芻有慚、有愧，彼人決定能得通達、能得遍知，能證等覺、能證涅槃、能證究竟無上安樂。」"
+    "segmentnr":"t0679a14",
+    "original":"若有苾芻有慚、有愧，彼人決定能得通達、能得遍知，能證等覺、能證涅槃、能證究竟無上安樂。」¶"
   },
   {
     "segmentnr":"t0679a17",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0679a18",
@@ -221,7 +225,7 @@
   },
   {
     "segmentnr":"t0679a19",
-    "original":"去結盡為遠。"
+    "original":"去結盡為遠。@"
   },
   {
     "segmentnr":"t0679a20",
@@ -237,7 +241,7 @@
   },
   {
     "segmentnr":"t0679a21",
-    "original":"去涅槃不遙。"
+    "original":"去涅槃不遙。@"
   },
   {
     "segmentnr":"t0679a22",
@@ -253,7 +257,7 @@
   },
   {
     "segmentnr":"t0679a23",
-    "original":"得無上安樂。」"
+    "original":"得無上安樂。」@"
   },
   {
     "segmentnr":"t0679a24",
@@ -264,7 +268,7 @@
     "original":"「苾芻當知！諸出家者，略有二種所應作事。"
   },
   {
-    "segmentnr":"t0679a27",
+    "segmentnr":"t0679a25",
     "original":"若能正作，得所未得、觸所未觸、證所未證，能超愁歎、能滅憂苦、能觸如理、能得甘露、能證涅槃。"
   },
   {
@@ -272,60 +276,56 @@
     "original":"云何為二？"
   },
   {
-    "segmentnr":"t0679a28",
-    "original":"一者靜慮；"
+    "segmentnr":"t0679a27",
+    "original":"一者靜慮；二者聽說。¶"
   },
   {
     "segmentnr":"t0679a28",
-    "original":"二者聽說。"
+    "original":"「云何靜慮？"
   },
   {
     "segmentnr":"t0679a28",
-    "original":"云何靜慮？"
-  },
-  {
-    "segmentnr":"t0679b01",
     "original":"謂諸苾芻遠離諸欲、惡不善法，有尋有伺，離生喜樂，具足安住最初靜慮。"
   },
   {
-    "segmentnr":"t0679b02",
+    "segmentnr":"t0679b01",
     "original":"尋伺靜息，內淨一趣，無尋無伺，定生喜樂，具足安住第二靜慮。"
   },
   {
-    "segmentnr":"t0679b03",
-    "original":"離喜、住捨，正念、正知，身受快樂；"
+    "segmentnr":"t0679b02",
+    "original":"離喜、住捨，正念、正知，身受快樂。"
   },
   {
-    "segmentnr":"t0679b04",
+    "segmentnr":"t0679b03",
     "original":"眾聖所說，有捨、有念，安住快樂，具足安住第三靜慮。"
   },
   {
-    "segmentnr":"t0679b05",
-    "original":"斷苦、斷樂，先滅憂喜；"
+    "segmentnr":"t0679b04",
+    "original":"斷苦、斷樂，先滅憂喜。"
   },
   {
     "segmentnr":"t0679b05",
-    "original":"不苦、不樂，捨念清淨，具足安住第四靜慮。"
+    "original":"不苦、不樂，捨念清淨，具足安住第四靜慮。¶"
   },
   {
     "segmentnr":"t0679b06",
-    "original":"云何聽說？"
+    "original":"「云何聽說？"
+  },
+  {
+    "segmentnr":"t0679b06",
+    "original":"謂諸苾芻於佛所說，初、中、後善，文義巧妙，純滿清白梵行之法，所謂契經、應頌、記別、伽他、自說、本事、本生及與方廣、未曾有法，於如是法，受誦聽習令其通利，宣暢解釋，是名聽說。¶"
   },
   {
     "segmentnr":"t0679b10",
-    "original":"謂諸苾芻於佛所說，初、中、後善，文義巧妙，純滿清白梵行之法，所謂契經、應頌、記別、伽他、自說、本事、本生及與方廣、未曾有法，於如是法，受誦聽習令其通利，宣暢解釋，是名聽說。"
+    "original":"「如是名為諸出家者，略有二種所應作事。"
   },
   {
     "segmentnr":"t0679b11",
-    "original":"如是名為諸出家者，略有二種所應作事。"
+    "original":"若能正作，得所未得、觸所未觸、證所未證，能超愁歎、能滅憂苦、能觸如理、能得甘露、能證涅槃。」¶"
   },
   {
     "segmentnr":"t0679b13",
-    "original":"若能正作，得所未得、觸所未觸、證所未證，能超愁歎、能滅憂苦、能觸如理、能得甘露、能證涅槃。」"
-  },
-  {
-    "segmentnr":"t0679b14",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0679b15",
@@ -337,7 +337,11 @@
   },
   {
     "segmentnr":"t0679b16",
-    "original":"謂靜慮、聽說，速證於涅槃。"
+    "original":"謂靜慮、聽說，"
+  },
+  {
+    "segmentnr":"t0679b16",
+    "original":"速證於涅槃。@"
   },
   {
     "segmentnr":"t0679b17",
@@ -353,7 +357,7 @@
   },
   {
     "segmentnr":"t0679b18",
-    "original":"速證於涅槃。"
+    "original":"速證於涅槃。@"
   },
   {
     "segmentnr":"t0679b19",
@@ -369,7 +373,7 @@
   },
   {
     "segmentnr":"t0679b20",
-    "original":"無一得涅槃。"
+    "original":"無一得涅槃。@"
   },
   {
     "segmentnr":"t0679b21",
@@ -385,7 +389,7 @@
   },
   {
     "segmentnr":"t0679b22",
-    "original":"能速證涅槃。」"
+    "original":"能速證涅槃。」@"
   },
   {
     "segmentnr":"t0679b23",
@@ -404,11 +408,11 @@
     "original":"謂聖尋求、非聖尋求。"
   },
   {
-    "segmentnr":"t0679b25",
+    "segmentnr":"t0679b24",
     "original":"云何名為非聖尋求？"
   },
   {
-    "segmentnr":"t0679b26",
+    "segmentnr":"t0679b25",
     "original":"謂有一類，已有老法，尋求老法；"
   },
   {
@@ -416,7 +420,7 @@
     "original":"已有病法，尋求病法；"
   },
   {
-    "segmentnr":"t0679b27",
+    "segmentnr":"t0679b26",
     "original":"已有死法，尋求死法；"
   },
   {
@@ -424,156 +428,156 @@
     "original":"已有愁法，尋求愁法；"
   },
   {
-    "segmentnr":"t0679b28",
-    "original":"已有染法，尋求染法。"
+    "segmentnr":"t0679b27",
+    "original":"已有染法，尋求染法。¶"
   },
   {
     "segmentnr":"t0679b28",
-    "original":"云何老法？"
+    "original":"「云何老法？"
   },
   {
-    "segmentnr":"t0679b29",
+    "segmentnr":"t0679b28",
     "original":"所謂妻子、奴婢、僕使，象馬、牛羊、鷄猪、田宅，金銀財穀是名老法。"
   },
   {
-    "segmentnr":"t0679c01",
+    "segmentnr":"t0679b29",
     "original":"如是老法，是諸有情生死苦本。"
   },
   {
+    "segmentnr":"t0679c01",
+    "original":"愚夫異生，於此守護染愛耽著，由此不能解脫生死，故名老法。¶"
+  },
+  {
     "segmentnr":"t0679c02",
-    "original":"愚夫異生，於此守護染愛耽著，由此不能解脫生死，故名老法。"
+    "original":"「云何病法？"
   },
   {
     "segmentnr":"t0679c03",
-    "original":"云何病法？"
+    "original":"所謂妻子、奴婢、僕使，廣說乃至由此不能解脫生死，故名病法。¶"
   },
   {
     "segmentnr":"t0679c04",
-    "original":"所謂妻子、奴婢、僕使，廣說乃至由此不能解脫生死，故名病法。"
+    "original":"「云何死法？"
   },
   {
     "segmentnr":"t0679c04",
-    "original":"云何死法？"
+    "original":"所謂妻子、奴婢、僕使，廣說乃至由此不能解脫生死，故名死法。¶"
   },
   {
     "segmentnr":"t0679c06",
-    "original":"所謂妻子、奴婢、僕使，廣說乃至由此不能解脫生死，故名死法。"
+    "original":"「云何愁法？"
   },
   {
     "segmentnr":"t0679c06",
-    "original":"云何愁法？"
+    "original":"所謂妻子、奴婢、僕使，廣說乃至由此不能解脫生死，故名愁法。¶"
   },
   {
     "segmentnr":"t0679c07",
-    "original":"所謂妻子、奴婢、僕使，廣說乃至由此不能解脫生死，故名愁法。"
+    "original":"「云何染法？"
   },
   {
     "segmentnr":"t0679c08",
-    "original":"云何染法？"
-  },
-  {
-    "segmentnr":"t0679c09",
     "original":"所謂妻子、奴婢、僕使，象馬、牛羊、鷄猪、田宅，金銀財穀是名染法。"
   },
   {
-    "segmentnr":"t0679c10",
+    "segmentnr":"t0679c09",
     "original":"如是染法，是諸有情生死苦本。"
   },
   {
+    "segmentnr":"t0679c10",
+    "original":"愚夫異生，於此守護染愛耽著，由此不能解脫生死，故名染法。¶"
+  },
+  {
     "segmentnr":"t0679c11",
-    "original":"愚夫異生，於此守護染愛耽著，由此不能解脫生死，故名染法。"
+    "original":"「若有於此愛樂尋求，當知是名非聖尋求；"
   },
   {
     "segmentnr":"t0679c12",
-    "original":"若有於此愛樂尋求，當知是名非聖尋求；"
+    "original":"如是尋求，如來終不稱揚讚歎，唯勸導之，令知捨離。¶"
   },
   {
-    "segmentnr":"t0679c13",
-    "original":"如是尋求，如來終不稱揚讚歎，唯勸導之，令知捨離。"
-  },
-  {
-    "segmentnr":"t0679c15",
+    "segmentnr":"t0679c14",
     "original":"何緣如是非聖尋求，如來終不稱揚讚歎，唯勸導之，令知捨離？"
   },
   {
-    "segmentnr":"t0679c17",
+    "segmentnr":"t0679c15",
     "original":"由此尋求非賢聖法，非能出離、非趣涅槃、非厭非離、非滅非靜、非得通慧、非成等覺、非證涅槃；"
   },
   {
-    "segmentnr":"t0679c18",
+    "segmentnr":"t0679c17",
     "original":"由此尋求，能引一切生、老、病、死、愁、歎、憂、苦、諸熱惱法。"
   },
   {
-    "segmentnr":"t0679c20",
-    "original":"是故如是非聖尋求，如來終不稱揚讚歎，唯勸導之，令知捨離。"
+    "segmentnr":"t0679c18",
+    "original":"是故如是非聖尋求，如來終不稱揚讚歎，唯勸導之，令知捨離。¶"
   },
   {
     "segmentnr":"t0679c20",
     "original":"「云何名為是聖尋求？"
   },
   {
-    "segmentnr":"t0679c22",
+    "segmentnr":"t0679c20",
     "original":"謂有一類已有老法，能自了知我有老法，能如實知老法過患，尋求畢竟無老無上安樂涅槃。"
   },
   {
-    "segmentnr":"t0679c24",
+    "segmentnr":"t0679c22",
     "original":"已有病法，能自了知我有病法，能如實知病法過患，尋求畢竟無病無上安樂涅槃。"
   },
   {
-    "segmentnr":"t0679c26",
+    "segmentnr":"t0679c24",
     "original":"已有死法，能自了知我有死法，能如實知死法過患，尋求畢竟無死無上安樂涅槃。"
   },
   {
-    "segmentnr":"t0679c28",
+    "segmentnr":"t0679c26",
     "original":"已有愁法，能自了知我有愁法，能如實知愁法過患，尋求畢竟無愁無上安樂涅槃。"
   },
   {
-    "segmentnr":"t0680a01",
+    "segmentnr":"t0679c28",
     "original":"已有染法，能自了知我有染法，能如實知染法過患，尋求畢竟無染無上安樂涅槃。"
   },
   {
-    "segmentnr":"t0680a02",
+    "segmentnr":"t0680a01",
     "original":"如是名為是聖尋求。"
   },
   {
     "segmentnr":"t0680a02",
-    "original":"如是尋求，一切如來稱揚讚歎。"
+    "original":"如是尋求，一切如來稱揚讚歎。¶"
+  },
+  {
+    "segmentnr":"t0680a02",
+    "original":"「何緣如是是聖尋求，一切如來稱揚讚歎？"
   },
   {
     "segmentnr":"t0680a03",
-    "original":"何緣如是是聖尋求，一切如來稱揚讚歎？"
-  },
-  {
-    "segmentnr":"t0680a06",
     "original":"由此尋求是賢聖法，能永出離、能趣涅槃、能厭能離、能滅能靜、能得通慧、能成等覺、能證涅槃。"
   },
   {
-    "segmentnr":"t0680a07",
+    "segmentnr":"t0680a06",
     "original":"由此尋求，能超一切生、老、病、死、愁、歎、憂、苦，生死熱惱。"
   },
   {
-    "segmentnr":"t0680a08",
-    "original":"是故如是是聖尋求，一切如來稱揚讚歎。"
+    "segmentnr":"t0680a07",
+    "original":"是故如是是聖尋求，一切如來稱揚讚歎。¶"
   },
   {
     "segmentnr":"t0680a08",
-    "original":"如是名為尋求有二，更無第三。"
+    "original":"「如是名為尋求有二，更無第三。"
   },
   {
     "segmentnr":"t0680a09",
     "original":"是故汝等應如是學："
   },
   {
-    "segmentnr":"t0680a10",
+    "segmentnr":"t0680a09",
     "original":"我當云何遠離如是非聖尋求，修行如是是聖尋求？"
   },
   {
-    "segmentnr":"t0680a11",
-    "original":"汝等苾芻，應如是學。」"
+    "segmentnr":"t0680a10",
+    "original":"汝等苾芻，應如是學。」¶"
   },
   {
     "segmentnr":"t0680a11",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0680a12",
@@ -589,11 +593,15 @@
   },
   {
     "segmentnr":"t0680a13",
-    "original":"謂聖與非聖。"
+    "original":"謂聖與非聖。@"
   },
   {
     "segmentnr":"t0680a14",
-    "original":"不知老病死、愁染法過患，"
+    "original":"不知老病死、"
+  },
+  {
+    "segmentnr":"t0680a14",
+    "original":"愁染法過患，"
   },
   {
     "segmentnr":"t0680a15",
@@ -617,11 +625,15 @@
   },
   {
     "segmentnr":"t0680a17",
-    "original":"或高或下趣。"
+    "original":"或高或下趣。@"
   },
   {
     "segmentnr":"t0680a18",
-    "original":"善知老病死、愁染法過患，"
+    "original":"善知老病死、"
+  },
+  {
+    "segmentnr":"t0680a18",
+    "original":"愁染法過患，"
   },
   {
     "segmentnr":"t0680a19",
@@ -645,7 +657,7 @@
   },
   {
     "segmentnr":"t0680a21",
-    "original":"常無漏無怖。"
+    "original":"常無漏無怖。@"
   },
   {
     "segmentnr":"t0680a22",
@@ -661,7 +673,7 @@
   },
   {
     "segmentnr":"t0680a23",
-    "original":"智者當遠離。"
+    "original":"智者當遠離。@"
   },
   {
     "segmentnr":"t0680a24",
@@ -677,7 +689,7 @@
   },
   {
     "segmentnr":"t0680a25",
-    "original":"有智者應修。」"
+    "original":"有智者應修。」@"
   },
   {
     "segmentnr":"t0680a26",
@@ -685,11 +697,19 @@
   },
   {
     "segmentnr":"t0680a27",
-    "original":"為通達、律儀厭、知、不淨、界"
+    "original":"為通達、律儀、"
+  },
+  {
+    "segmentnr":"t0680a27",
+    "original":"厭、知、不淨、界、"
   },
   {
     "segmentnr":"t0680a28",
-    "original":"纏、覺悟、宴坐愧、所作、尋求"
+    "original":"纏、覺悟、宴坐、"
+  },
+  {
+    "segmentnr":"t0680a28",
+    "original":"愧、所作、尋求。"
   },
   {
     "segmentnr":"t0680a29",
@@ -708,28 +728,36 @@
     "original":"謂慚與愧。"
   },
   {
+    "segmentnr":"t0680b02",
+    "original":"若無此二白淨善法，世間有情皆成穢雜，猶如牛羊、鷄猪、狗等。"
+  },
+  {
+    "segmentnr":"t0680b03",
+    "original":"不識父母、兄弟、姊妹，不識軌範、親教、導師、似導師等。"
+  },
+  {
     "segmentnr":"t0680b04",
-    "original":"若無此二白淨善法，世間有情皆成穢雜，猶如牛羊、鷄猪、狗等，不識父母、兄弟、姊妹，不識軌範、親教、導師、似導師等。"
+    "original":"由有此二白淨善法，世間有情離諸穢雜，非如牛羊、鷄猪、狗等。"
+  },
+  {
+    "segmentnr":"t0680b06",
+    "original":"了知父母、兄弟、姊妹，了知軌範、親教、導師、似導師等。¶"
   },
   {
     "segmentnr":"t0680b07",
-    "original":"由有此二白淨善法，世間有情離諸穢雜，非如牛羊、鷄猪、狗等，了知父母、兄弟、姊妹，了知軌範、親教、導師、似導師等。"
+    "original":"「是故汝等應如是學："
   },
   {
     "segmentnr":"t0680b07",
-    "original":"是故汝等應如是學："
+    "original":"『我當云何成就如是二種最勝第一慚愧白淨善法？』"
   },
   {
     "segmentnr":"t0680b08",
-    "original":"我當云何成就如是二種最勝第一慚愧白淨善法？"
+    "original":"汝等苾芻，應如是學。」¶"
   },
   {
     "segmentnr":"t0680b09",
-    "original":"汝等苾芻，應如是學。」"
-  },
-  {
-    "segmentnr":"t0680b10",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0680b11",
@@ -745,7 +773,7 @@
   },
   {
     "segmentnr":"t0680b12",
-    "original":"謂慚及與愧。"
+    "original":"謂慚及與愧。@"
   },
   {
     "segmentnr":"t0680b13",
@@ -757,7 +785,11 @@
   },
   {
     "segmentnr":"t0680b14",
-    "original":"穢雜似牛羊、鷄猪狗等類。"
+    "original":"穢雜似牛羊、"
+  },
+  {
+    "segmentnr":"t0680b14",
+    "original":"鷄猪狗等類。@"
   },
   {
     "segmentnr":"t0680b15",
@@ -773,7 +805,7 @@
   },
   {
     "segmentnr":"t0680b16",
-    "original":"行諸雜穢事。"
+    "original":"行諸雜穢事。@"
   },
   {
     "segmentnr":"t0680b17",
@@ -789,7 +821,7 @@
   },
   {
     "segmentnr":"t0680b18",
-    "original":"終不墮三塗。」"
+    "original":"終不墮三塗。」@"
   },
   {
     "segmentnr":"t0680b19",
@@ -797,59 +829,75 @@
   },
   {
     "segmentnr":"t0680b19",
-    "original":"「苾芻當知！我為如來、應、正等覺，未成佛時居菩薩位，多分安住二種尋思。"
+    "original":"「苾芻當知！我為如來、應、正等覺。"
+  },
+  {
+    "segmentnr":"t0680b20",
+    "original":"未成佛時居菩薩位，多分安住二種尋思。"
   },
   {
     "segmentnr":"t0680b21",
     "original":"云何為二？"
   },
   {
-    "segmentnr":"t0680b22",
+    "segmentnr":"t0680b21",
     "original":"一者如來居菩薩位，多分安住不害尋思欣喜悅樂。"
   },
   {
-    "segmentnr":"t0680b23",
+    "segmentnr":"t0680b22",
     "original":"如是安住不害尋思欣喜悅樂，是名第一多分尋思。"
   },
   {
+    "segmentnr":"t0680b23",
+    "original":"由住如是修習行迹，於諸有情都無損害。"
+  },
+  {
+    "segmentnr":"t0680b24",
+    "original":"由此尋思，證得無量圓滿梵住。¶"
+  },
+  {
     "segmentnr":"t0680b25",
-    "original":"由住如是修習行迹，於諸有情都無損害，由此尋思，證得無量圓滿梵住。"
+    "original":"「二者如來居菩薩位，多分安住永斷尋思欣喜悅樂。"
   },
   {
     "segmentnr":"t0680b26",
-    "original":"二者如來居菩薩位，多分安住永斷尋思欣喜悅樂。"
-  },
-  {
-    "segmentnr":"t0680b27",
     "original":"如是安住永斷尋思欣喜悅樂，是名第二多分尋思。"
   },
   {
+    "segmentnr":"t0680b27",
+    "original":"由住如是修習行迹，於不善法能正永斷。"
+  },
+  {
+    "segmentnr":"t0680b28",
+    "original":"由此尋思，證得善根圓滿勝道。¶"
+  },
+  {
     "segmentnr":"t0680b29",
-    "original":"由住如是修習行迹，於不善法能正永斷，由此尋思，證得善根圓滿勝道。"
+    "original":"「我於爾時，安住如是二種尋思，精進勇猛，乃至自身一切血肉，悉皆枯竭，唯餘身肉骨筋皮纏裹，亦不放逸，乃至未知、未見、未得、未解、未證。"
+  },
+  {
+    "segmentnr":"t0680c03",
+    "original":"所應知、見、得、解、證法，於其中間住不放逸，精進勇猛，曾無懈廢。"
   },
   {
     "segmentnr":"t0680c05",
-    "original":"我於爾時，安住如是二種尋思，精進勇猛，乃至自身一切血肉，悉皆枯竭，唯餘身肉骨筋皮纏裹，亦不放逸，乃至未知、未見、未得、未解、未證，所應知、見、得、解、證法，於其中間住不放逸，精進勇猛，曾無懈廢。"
+    "original":"由不放逸，精進勇猛無懈廢故，速證無上正等菩提，速證無上清涼涅槃，速證無上一切智見。¶"
   },
   {
     "segmentnr":"t0680c07",
-    "original":"由不放逸，精進勇猛無懈廢故，速證無上正等菩提，速證無上清涼涅槃，速證無上一切智見。"
+    "original":"「是故汝等應如是學："
   },
   {
     "segmentnr":"t0680c07",
-    "original":"是故汝等應如是學："
+    "original":"『我當云何安住不害欣喜悅樂多分尋思、安住永斷欣喜悅樂多分尋思？』"
   },
   {
     "segmentnr":"t0680c09",
-    "original":"我當云何安住不害欣喜悅樂多分尋思、安住永斷欣喜悅樂多分尋思？"
+    "original":"汝等苾芻，應如是學。」¶"
   },
   {
     "segmentnr":"t0680c09",
-    "original":"汝等苾芻，應如是學。」"
-  },
-  {
-    "segmentnr":"t0680c10",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0680c11",
@@ -861,7 +909,11 @@
   },
   {
     "segmentnr":"t0680c12",
-    "original":"謂不害、永斷，欣喜悅樂思。"
+    "original":"謂不害、永斷，"
+  },
+  {
+    "segmentnr":"t0680c12",
+    "original":"欣喜悅樂思。@"
   },
   {
     "segmentnr":"t0680c13",
@@ -877,7 +929,7 @@
   },
   {
     "segmentnr":"t0680c14",
-    "original":"圓滿不為難。"
+    "original":"圓滿不為難。@"
   },
   {
     "segmentnr":"t0680c15",
@@ -893,7 +945,7 @@
   },
   {
     "segmentnr":"t0680c16",
-    "original":"圓滿殊勝道。"
+    "original":"圓滿殊勝道。@"
   },
   {
     "segmentnr":"t0680c17",
@@ -909,7 +961,7 @@
   },
   {
     "segmentnr":"t0680c18",
-    "original":"清涼涅槃等。」"
+    "original":"清涼涅槃等。」@"
   },
   {
     "segmentnr":"t0680c19",
@@ -920,20 +972,24 @@
     "original":"「苾芻當知！諸婆羅門、長者、居士、剎帝利等，多有所作，謂施汝等如法衣服、飲食、臥具、病緣醫藥、房舍資具。"
   },
   {
-    "segmentnr":"t0680c23",
+    "segmentnr":"t0680c21",
     "original":"汝等苾芻，多有所作，謂能為彼宣說正法，初、中、後善，文義巧妙，純滿清白梵行之法。"
   },
   {
-    "segmentnr":"t0680c24",
+    "segmentnr":"t0680c23",
     "original":"由此俱能解脫生法、老病死法、愁歎憂苦熱惱之法。"
   },
   {
-    "segmentnr":"t0680c26",
-    "original":"汝等與彼力輪、法輪，展轉相依，於如來所，勤修梵行，速至無上般涅槃城。」"
+    "segmentnr":"t0680c24",
+    "original":"汝等與彼力輪、法輪，展轉相依。"
   },
   {
-    "segmentnr":"t0680c27",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "segmentnr":"t0680c25",
+    "original":"於如來所，勤修梵行，速至無上般涅槃城。」¶"
+  },
+  {
+    "segmentnr":"t0680c26",
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0680c28",
@@ -945,7 +1001,11 @@
   },
   {
     "segmentnr":"t0680c29",
-    "original":"由力、法二輪，速至涅槃樂。"
+    "original":"由力、法二輪，"
+  },
+  {
+    "segmentnr":"t0680c29",
+    "original":"速至涅槃樂。@"
   },
   {
     "segmentnr":"t0681a01",
@@ -961,7 +1021,7 @@
   },
   {
     "segmentnr":"t0681a02",
-    "original":"獲微妙正法。"
+    "original":"獲微妙正法。@"
   },
   {
     "segmentnr":"t0681a03",
@@ -977,7 +1037,7 @@
   },
   {
     "segmentnr":"t0681a04",
-    "original":"至清涼涅槃。」"
+    "original":"至清涼涅槃。」@"
   },
   {
     "segmentnr":"t0681a05",
@@ -996,92 +1056,108 @@
     "original":"謂奢摩他、毘鉢舍那。"
   },
   {
-    "segmentnr":"t0681a08",
-    "original":"謂修行者，依住尸羅修奢摩他，既修如是奢摩他已，修心令滿。"
+    "segmentnr":"t0681a06",
+    "original":"謂修行者，依住尸羅修奢摩他。"
+  },
+  {
+    "segmentnr":"t0681a07",
+    "original":"既修如是奢摩他已，修心令滿。¶"
   },
   {
     "segmentnr":"t0681a08",
-    "original":"為何事故修習其心？"
+    "original":"「為何事故修習其心？"
   },
   {
-    "segmentnr":"t0681a09",
+    "segmentnr":"t0681a08",
     "original":"修習心者，為斷貪故。"
   },
   {
+    "segmentnr":"t0681a09",
+    "original":"諸修行者，依住尸羅，精勤修習毘鉢舍那。"
+  },
+  {
     "segmentnr":"t0681a10",
-    "original":"諸修行者，依住尸羅，精勤修習毘鉢舍那，既修如是毘鉢舍那已，修慧令滿。"
+    "original":"既修如是毘鉢舍那已，修慧令滿。¶"
   },
   {
     "segmentnr":"t0681a11",
-    "original":"為何事故修習其慧？"
+    "original":"「為何事故修習其慧？"
   },
   {
     "segmentnr":"t0681a11",
     "original":"修習慧者，為斷癡故。"
   },
   {
-    "segmentnr":"t0681a12",
+    "segmentnr":"t0681a11",
     "original":"貪染污心令不解脫、癡染污慧令不明照。"
   },
   {
-    "segmentnr":"t0681a13",
-    "original":"若永離貪，心善解脫；"
+    "segmentnr":"t0681a12",
+    "original":"若永離貪，心善解脫。"
   },
   {
     "segmentnr":"t0681a13",
     "original":"若永離癡，慧善解脫。"
   },
   {
-    "segmentnr":"t0681a15",
-    "original":"若於如是二種解脫，已能正知、見、得、觸、證，我說彼為心善解脫、慧善解脫，獨一修習最上丈夫。"
+    "segmentnr":"t0681a13",
+    "original":"若於如是二種解脫，已能正知、見、得、觸、證。"
+  },
+  {
+    "segmentnr":"t0681a14",
+    "original":"我說彼為心善解脫、慧善解脫，獨一修習最上丈夫。¶"
+  },
+  {
+    "segmentnr":"t0681a16",
+    "original":"「諸聖弟子正證如是心解脫者，若他罵詈、訶責、輕弄、毀辱等時，不由此緣發生種種不忍、不信、害恨等心。"
   },
   {
     "segmentnr":"t0681a18",
-    "original":"諸聖弟子正證如是心解脫者，若他罵詈、訶責、輕弄、毀辱等時，不由此緣發生種種不忍、不信、害恨等心。"
+    "original":"所以者何？¶"
   },
   {
     "segmentnr":"t0681a18",
-    "original":"所以者何？"
+    "original":"「以能照見他罵詈等，於彼有罪、於己無損。"
   },
   {
     "segmentnr":"t0681a19",
-    "original":"以能照見他罵詈等，於彼有罪、於己無損。"
-  },
-  {
-    "segmentnr":"t0681a21",
     "original":"諸聖弟子正證如是心解脫者，若他讚美、恭敬、禮拜、供養等時，不由此緣發生種種歡喜、踊躍、悅豫等心。"
   },
   {
+    "segmentnr":"t0681a21",
+    "original":"所以者何？¶"
+  },
+  {
     "segmentnr":"t0681a22",
-    "original":"所以者何？"
+    "original":"「以能照見他讚美等，於彼有福、於己無益。"
   },
   {
     "segmentnr":"t0681a23",
-    "original":"以能照見他讚美等，於彼有福、於己無益。"
+    "original":"若能如是，名於世法得心平等，無慼無欣，安隱自在。¶"
   },
   {
     "segmentnr":"t0681a24",
-    "original":"若能如是，名於世法得心平等，無慼無欣，安隱自在。"
+    "original":"「是故汝等應如是學："
   },
   {
     "segmentnr":"t0681a24",
-    "original":"是故汝等應如是學："
+    "original":"『我當云何依住尸羅，修奢摩他、毘鉢舍那？』"
   },
   {
     "segmentnr":"t0681a25",
-    "original":"我當云何依住尸羅，修奢摩他、毘鉢舍那？"
-  },
-  {
-    "segmentnr":"t0681a26",
     "original":"汝等苾芻，應如是學。」"
   },
   {
-    "segmentnr":"t0681a27",
+    "segmentnr":"t0681a26",
     "original":"爾時，世尊重攝此義而說頌曰："
   },
   {
     "segmentnr":"t0681a28",
-    "original":"「依住淨尸羅，修無罪止、觀，"
+    "original":"「依住淨尸羅，"
+  },
+  {
+    "segmentnr":"t0681a28",
+    "original":"修無罪止、觀，"
   },
   {
     "segmentnr":"t0681a29",
@@ -1089,7 +1165,7 @@
   },
   {
     "segmentnr":"t0681a29",
-    "original":"證甘露涅槃。"
+    "original":"證甘露涅槃。@"
   },
   {
     "segmentnr":"t0681b01",
@@ -1105,7 +1181,7 @@
   },
   {
     "segmentnr":"t0681b02",
-    "original":"證解脫心平。"
+    "original":"證解脫心平。@"
   },
   {
     "segmentnr":"t0681b03",
@@ -1121,7 +1197,7 @@
   },
   {
     "segmentnr":"t0681b04",
-    "original":"證解心平等。"
+    "original":"證解心平等。@"
   },
   {
     "segmentnr":"t0681b05",
@@ -1133,7 +1209,11 @@
   },
   {
     "segmentnr":"t0681b06",
-    "original":"常依住尸羅，修無罪止、觀。」"
+    "original":"常依住尸羅，"
+  },
+  {
+    "segmentnr":"t0681b06",
+    "original":"修無罪止、觀。」@"
   },
   {
     "segmentnr":"t0681b07",
@@ -1144,11 +1224,11 @@
     "original":"「苾芻當知！修學勝利，於如來所修行梵行："
   },
   {
-    "segmentnr":"t0681b09",
+    "segmentnr":"t0681b08",
     "original":"慧為上首，解脫堅固，念最尊勝。"
   },
   {
-    "segmentnr":"t0681b10",
+    "segmentnr":"t0681b09",
     "original":"若有成就修學勝利，於如來所修行梵行："
   },
   {
@@ -1156,20 +1236,20 @@
     "original":"慧為上首，解脫堅固，念最尊勝。"
   },
   {
-    "segmentnr":"t0681b12",
+    "segmentnr":"t0681b10",
     "original":"彼終不為味著色貪纏擾其心，亦復不為味著聲、香、味、觸、法貪纏擾其心。"
   },
   {
-    "segmentnr":"t0681b14",
+    "segmentnr":"t0681b12",
     "original":"心不為貪所纏擾故，無隨味著色相貌識，無隨味著聲、香、味、觸、法相貌識。"
   },
   {
-    "segmentnr":"t0681b15",
-    "original":"於二果中，隨證一果，謂於現法，證有餘依般涅槃界，或不還果。」"
+    "segmentnr":"t0681b14",
+    "original":"於二果中，隨證一果，謂於現法，證有餘依般涅槃界，或不還果。」¶"
   },
   {
-    "segmentnr":"t0681b16",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "segmentnr":"t0681b15",
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0681b17",
@@ -1201,7 +1281,7 @@
   },
   {
     "segmentnr":"t0681b20",
-    "original":"及永不還果。"
+    "original":"及永不還果。@"
   },
   {
     "segmentnr":"t0681b21",
@@ -1217,7 +1297,7 @@
   },
   {
     "segmentnr":"t0681b22",
-    "original":"相貌所生識。"
+    "original":"相貌所生識。@"
   },
   {
     "segmentnr":"t0681b23",
@@ -1233,7 +1313,7 @@
   },
   {
     "segmentnr":"t0681b24",
-    "original":"證有餘依界。"
+    "original":"證有餘依界。@"
   },
   {
     "segmentnr":"t0681b25",
@@ -1249,7 +1329,7 @@
   },
   {
     "segmentnr":"t0681b26",
-    "original":"盡生老病死。"
+    "original":"盡生老病死。@"
   },
   {
     "segmentnr":"t0681b27",
@@ -1265,7 +1345,7 @@
   },
   {
     "segmentnr":"t0681b28",
-    "original":"永盡眾苦邊。」"
+    "original":"永盡眾苦邊。」@"
   },
   {
     "segmentnr":"t0681b29",
@@ -1273,10 +1353,10 @@
   },
   {
     "segmentnr":"t0681b29",
-    "original":"「苾芻當知！一切世間惡不善法，皆以無明為其前導而得生長；"
+    "original":"「苾芻當知！一切世間惡不善法，皆以無明為其前導而得生長。"
   },
   {
-    "segmentnr":"t0681c02",
+    "segmentnr":"t0681c01",
     "original":"以無慚愧為其後助而不損減。"
   },
   {
@@ -1284,15 +1364,15 @@
     "original":"所以者何？"
   },
   {
-    "segmentnr":"t0681c04",
+    "segmentnr":"t0681c02",
     "original":"諸趣有生，生老病死、愁歎憂苦熱惱等法，一切皆用無明為根而得生長。"
   },
   {
-    "segmentnr":"t0681c05",
+    "segmentnr":"t0681c04",
     "original":"既生長已，依之復能生起一切惡不善法。"
   },
   {
-    "segmentnr":"t0681c06",
+    "segmentnr":"t0681c05",
     "original":"惡法既生，由無慚愧，都無悔變。"
   },
   {
@@ -1300,36 +1380,36 @@
     "original":"無悔變故而不損減。"
   },
   {
-    "segmentnr":"t0681c07",
-    "original":"一切世間善清淨法，皆以慧明為其前導而得生長；"
+    "segmentnr":"t0681c06",
+    "original":"一切世間善清淨法，皆以慧明為其前導而得生長。¶"
   },
   {
-    "segmentnr":"t0681c08",
-    "original":"以慚與愧，為其後助而不損減。"
+    "segmentnr":"t0681c07",
+    "original":"「以慚與愧，為其後助而不損減。"
   },
   {
     "segmentnr":"t0681c08",
     "original":"所以者何？"
   },
   {
+    "segmentnr":"t0681c08",
+    "original":"明處其前，慚愧為後，能永斷滅諸趣有生生老病死、能超一切愁歎憂苦熱惱等法，能觸如理、能得甘露、能證涅槃。¶"
+  },
+  {
     "segmentnr":"t0681c11",
-    "original":"明處其前，慚愧為後，能永斷滅諸趣有生生老病死、能超一切愁歎憂苦熱惱等法，能觸如理、能得甘露、能證涅槃。"
+    "original":"「是故汝等應如是學："
   },
   {
     "segmentnr":"t0681c12",
-    "original":"是故汝等應如是學："
+    "original":"『我當云何永斷無明，發起慧明，永斷一切諸趣有生生老病死，永超一切愁歎憂苦熱惱等法，觸於如理、得於甘露、證於涅槃？』"
   },
   {
     "segmentnr":"t0681c14",
-    "original":"我當云何永斷無明，發起慧明，永斷一切諸趣有生生老病死，永超一切愁歎憂苦熱惱等法，觸於如理、得於甘露、證於涅槃？"
+    "original":"汝等苾芻，應如是學。」¶"
   },
   {
     "segmentnr":"t0681c15",
-    "original":"汝等苾芻，應如是學。」"
-  },
-  {
-    "segmentnr":"t0681c16",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0681c17",
@@ -1345,7 +1425,7 @@
   },
   {
     "segmentnr":"t0681c18",
-    "original":"皆無明為根。"
+    "original":"皆無明為根。@"
   },
   {
     "segmentnr":"t0681c19",
@@ -1361,7 +1441,7 @@
   },
   {
     "segmentnr":"t0681c20",
-    "original":"高下趣往還。"
+    "original":"高下趣往還。@"
   },
   {
     "segmentnr":"t0681c21",
@@ -1377,7 +1457,7 @@
   },
   {
     "segmentnr":"t0681c22",
-    "original":"墮眾惡趣中。"
+    "original":"墮眾惡趣中。@"
   },
   {
     "segmentnr":"t0681c23",
@@ -1393,7 +1473,7 @@
   },
   {
     "segmentnr":"t0681c24",
-    "original":"斷生死苦本。」"
+    "original":"斷生死苦本。」@"
   },
   {
     "segmentnr":"t0681c25",
@@ -1404,7 +1484,7 @@
     "original":"「苾芻當知！一切如來、應、正等覺，憐愍世間出興於世，為欲永斷、除捨二法，轉於賢聖無上法輪。"
   },
   {
-    "segmentnr":"t0681c28",
+    "segmentnr":"t0681c27",
     "original":"一切世間，所有沙門或婆羅門、天、魔、梵等，曾未有能如法轉者。"
   },
   {
@@ -1413,27 +1493,27 @@
   },
   {
     "segmentnr":"t0681c29",
-    "original":"一者無明；"
+    "original":"一者無明；二者有愛。"
   },
   {
     "segmentnr":"t0681c29",
-    "original":"二者有愛。"
+    "original":"一切如來、應、正等覺，憐愍世間出興於世，皆為永斷、除捨此二，轉於賢聖無上法輪⋯廣說乃至⋯曾未有能如法轉者。¶"
   },
   {
     "segmentnr":"t0682a03",
-    "original":"一切如來、應、正等覺，憐愍世間出興於世，皆為永斷、除捨此二，轉於賢聖無上法輪，廣說乃至曾未有能如法轉者。"
+    "original":"「若能永斷、除捨一切所有無明及諸有愛，令其永盡無有遺餘，便能永斷一切煩惱諸雜染法。"
   },
   {
     "segmentnr":"t0682a05",
-    "original":"若能永斷、除捨一切所有無明及諸有愛，令其永盡無有遺餘，便能永斷一切煩惱諸雜染法。"
+    "original":"是則名為出諸坑塹、越諸垣牆、破諸關鍵、摧伊師迦。"
+  },
+  {
+    "segmentnr":"t0682a05",
+    "original":"是真賢聖，是正法幢、是大沙門、是婆羅門、是真聰慧、是真沐浴、是真智者、是真調順至調順地，名世福田。」¶"
   },
   {
     "segmentnr":"t0682a09",
-    "original":"是則名為出諸坑塹、越諸垣牆、破諸關鍵、摧伊師迦，是真賢聖，是正法幢、是大沙門、是婆羅門、是真聰慧、是真沐浴、是真智者、是真調順至調順地，名世福田。」"
-  },
-  {
-    "segmentnr":"t0682a09",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0682a10",
@@ -1461,7 +1541,11 @@
   },
   {
     "segmentnr":"t0682a13",
-    "original":"謂無明、有愛，轉無上法輪。"
+    "original":"謂無明、有愛，"
+  },
+  {
+    "segmentnr":"t0682a13",
+    "original":"轉無上法輪。@"
   },
   {
     "segmentnr":"t0682a14",
@@ -1477,7 +1561,7 @@
   },
   {
     "segmentnr":"t0682a15",
-    "original":"趣滅苦涅槃。"
+    "original":"趣滅苦涅槃。@"
   },
   {
     "segmentnr":"t0682a16",
@@ -1489,11 +1573,19 @@
   },
   {
     "segmentnr":"t0682a17",
-    "original":"達諸法正真，斷無明、有愛。"
+    "original":"達諸法正真，"
+  },
+  {
+    "segmentnr":"t0682a17",
+    "original":"斷無明、有愛。@"
   },
   {
     "segmentnr":"t0682a18",
-    "original":"無明、有愛除，諸雜染皆滅，"
+    "original":"無明、有愛除，"
+  },
+  {
+    "segmentnr":"t0682a18",
+    "original":"諸雜染皆滅，"
   },
   {
     "segmentnr":"t0682a19",
@@ -1501,7 +1593,7 @@
   },
   {
     "segmentnr":"t0682a19",
-    "original":"名世良福田。」"
+    "original":"名世良福田。」@"
   },
   {
     "segmentnr":"t0682a20",
@@ -1513,55 +1605,75 @@
   },
   {
     "segmentnr":"t0682a21",
-    "original":"一、剃鬚髮；"
-  },
-  {
-    "segmentnr":"t0682a21",
-    "original":"二、常乞求。"
+    "original":"一、剃鬚髮；二、常乞求。"
   },
   {
     "segmentnr":"t0682a21",
     "original":"所以者何？"
   },
   {
-    "segmentnr":"t0682a22",
+    "segmentnr":"t0682a21",
     "original":"世間怨嫌興呪詛者，作是願言："
   },
   {
+    "segmentnr":"t0682a22",
+    "original":"『願彼貧窮，剃除鬚髮，服故弊衣，手持瓦器，從家至家行乞自活。』"
+  },
+  {
     "segmentnr":"t0682a24",
-    "original":"『願彼貧窮，剃除鬚髮，服故弊衣，手持瓦器，從家至家行乞自活。"
+    "original":"諸有淨信善男子等，受持此法而出家者，非為王、賊、債主怖畏之所逼切，非恐不活而捨居家。"
+  },
+  {
+    "segmentnr":"t0682a26",
+    "original":"但為超度生、老、病、死、愁、歎憂、苦熱、惱等法，但為滅除純大苦蘊。"
   },
   {
     "segmentnr":"t0682a27",
-    "original":"』諸有淨信善男子等，受持此法而出家者，非為王、賊、債主怖畏之所逼切，非恐不活而捨居家，但為超度生老病死、愁歎憂苦熱惱等法，但為滅除純大苦蘊。"
+    "original":"我諸弟子，求如是事，正信出家，為利自他，受持此法。¶"
   },
   {
     "segmentnr":"t0682a28",
-    "original":"我諸弟子，求如是事，正信出家，為利自他，受持此法。"
+    "original":"「或有如是而出家已，未經幾時則便寬慢，放逸懈怠、下劣精進，亡失正念。"
+  },
+  {
+    "segmentnr":"t0682b01",
+    "original":"無有正知，心亂不定。"
+  },
+  {
+    "segmentnr":"t0682b02",
+    "original":"縱任諸根多欲貪著，心懷瞋忿。"
+  },
+  {
+    "segmentnr":"t0682b02",
+    "original":"愚鈍無知，耽染諸欲虛妄思惟，毀諸禁戒。"
   },
   {
     "segmentnr":"t0682b03",
-    "original":"或有如是而出家已，未經幾時則便寬慢，放逸懈怠、下劣精進，亡失正念，無有正知，心亂不定，縱任諸根多欲貪著，心懷瞋忿，愚鈍無知，耽染諸欲虛妄思惟，毀諸禁戒。"
+    "original":"實非沙門自稱沙門，實非梵行自稱梵行。"
+  },
+  {
+    "segmentnr":"t0682b04",
+    "original":"內朽順流，如穢蝸螺，貝音狗行，覆藏己惡，詐現自善，成就種種惡不善法。¶"
   },
   {
     "segmentnr":"t0682b06",
-    "original":"實非沙門自稱沙門，實非梵行自稱梵行，內朽順流，如穢蝸螺，貝音狗行，覆藏己惡，詐現自善，成就種種惡不善法。"
+    "original":"「譬如有人從闇入闇、從坑墮坑、從怨至怨，我說如是癡出家人，亦復如是。"
   },
   {
     "segmentnr":"t0682b08",
-    "original":"譬如有人從闇入闇、從坑墮坑、從怨至怨，我說如是癡出家人，亦復如是。"
+    "original":"又如有木，兩頭火燃，中塗糞穢。"
+  },
+  {
+    "segmentnr":"t0682b08",
+    "original":"若在聚落及與空閑，皆無復用。"
   },
   {
     "segmentnr":"t0682b09",
-    "original":"又如有木，兩頭火燃，中塗糞穢，若在聚落及與空閑，皆無復用。"
-  },
-  {
-    "segmentnr":"t0682b11",
-    "original":"我說如是癡出家人亦復如是，失在家法，復非沙門，世出世間皆無勝分。」"
+    "original":"我說如是癡出家人亦復如是，失在家法，復非沙門，世出世間皆無勝分。」¶"
   },
   {
     "segmentnr":"t0682b12",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0682b13",
@@ -1577,7 +1689,7 @@
   },
   {
     "segmentnr":"t0682b14",
-    "original":"及壞沙門法。"
+    "original":"及壞沙門法。@"
   },
   {
     "segmentnr":"t0682b15",
@@ -1593,7 +1705,7 @@
   },
   {
     "segmentnr":"t0682b16",
-    "original":"而毀犯尸羅。"
+    "original":"而毀犯尸羅。@"
   },
   {
     "segmentnr":"t0682b17",
@@ -1609,7 +1721,7 @@
   },
   {
     "segmentnr":"t0682b18",
-    "original":"定當生地獄。"
+    "original":"定當生地獄。@"
   },
   {
     "segmentnr":"t0682b19",
@@ -1625,7 +1737,7 @@
   },
   {
     "segmentnr":"t0682b20",
-    "original":"而毀犯尸羅。」"
+    "original":"而毀犯尸羅。」@"
   },
   {
     "segmentnr":"t0682b21",
@@ -1636,24 +1748,32 @@
     "original":"「苾芻當知！世有二種補特伽羅，攝受增益惡趣地獄惡不善法。"
   },
   {
-    "segmentnr":"t0682b23",
+    "segmentnr":"t0682b22",
     "original":"云何二種補特伽羅？"
   },
   {
-    "segmentnr":"t0682b27",
-    "original":"一者、一類補特伽羅，毀犯淨戒，實非沙門自稱沙門，實非梵行自稱梵行，內朽順流，如穢蝸螺，貝音狗行，覆藏己惡，詐現自善，如朽隧級，無所復用，唯增惡趣。"
+    "segmentnr":"t0682b23",
+    "original":"一者、一類補特伽羅，毀犯淨戒，實非沙門自稱沙門，實非梵行自稱梵行。"
   },
   {
-    "segmentnr":"t0682b29",
+    "segmentnr":"t0682b25",
+    "original":"內朽順流，如穢蝸螺，貝音狗行。"
+  },
+  {
+    "segmentnr":"t0682b25",
+    "original":"覆藏己惡，詐現自善，如朽隧級，無所復用，唯增惡趣。"
+  },
+  {
+    "segmentnr":"t0682b27",
     "original":"二者、一類補特伽羅，於具淨戒無所毀犯、精進修行清白梵行有德苾芻，以諸無根非梵行法，誹謗毀辱，令失威光。"
   },
   {
-    "segmentnr":"t0682c01",
-    "original":"如是二種補特伽羅，攝受增益惡趣地獄惡不善法。」"
+    "segmentnr":"t0682b29",
+    "original":"如是二種補特伽羅，攝受增益惡趣地獄惡不善法。」¶"
   },
   {
-    "segmentnr":"t0682c02",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "segmentnr":"t0682c01",
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0682c03",
@@ -1685,7 +1805,7 @@
   },
   {
     "segmentnr":"t0682c06",
-    "original":"受苦在當來。"
+    "original":"受苦在當來。@"
   },
   {
     "segmentnr":"t0682c07",
@@ -1701,7 +1821,7 @@
   },
   {
     "segmentnr":"t0682c08",
-    "original":"勿毀謗他人。」"
+    "original":"勿毀謗他人。」@"
   },
   {
     "segmentnr":"t0682c09",
