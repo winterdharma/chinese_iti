@@ -1840,8 +1840,12 @@
     "original":"所謂父、母。"
   },
   {
-    "segmentnr":"t0682c13",
-    "original":"假使有人一肩荷父、一肩擔母，盡其壽量曾無暫捨，供給衣食、病緣醫藥種種所須，猶未能報父母深恩。"
+    "segmentnr":"t0682c10",
+    "original":"假使有人一肩荷父、一肩擔母。"
+  },
+  {
+    "segmentnr":"t0682c11",
+    "original":"盡其壽量曾無暫捨，供給衣食、病緣醫藥種種所須，猶未能報父母深恩。"
   },
   {
     "segmentnr":"t0682c13",
@@ -1852,40 +1856,48 @@
     "original":"父母於子，恩極深重。"
   },
   {
+    "segmentnr":"t0682c14",
+    "original":"所謂產生，慈心乳哺、洗拭將養令其長大。"
+  },
+  {
+    "segmentnr":"t0682c14",
+    "original":"供給種種資身眾具，教示世間所有儀式。"
+  },
+  {
+    "segmentnr":"t0682c15",
+    "original":"心常欲令離苦得樂，曾無暫捨，如影隨形。¶"
+  },
+  {
     "segmentnr":"t0682c16",
-    "original":"所謂產生，慈心乳哺、洗拭將養令其長大，供給種種資身眾具，教示世間所有儀式，心常欲令離苦得樂，曾無暫捨，如影隨形。"
+    "original":"「父母於子，既有如是所說深恩，當云何報？"
   },
   {
     "segmentnr":"t0682c17",
-    "original":"父母於子，既有如是所說深恩，當云何報？"
-  },
-  {
-    "segmentnr":"t0682c19",
     "original":"若彼父母於佛、法、僧無清淨信，其子方便示現、勸導、讚勵、慶慰，令生淨信。"
   },
   {
-    "segmentnr":"t0682c21",
+    "segmentnr":"t0682c19",
     "original":"若彼父母無清淨戒，其子方便示現、勸導、讚勵、慶慰，令其受持清淨禁戒。"
   },
   {
-    "segmentnr":"t0682c22",
+    "segmentnr":"t0682c21",
     "original":"若彼父母無有多聞，其子方便示現、勸導、讚勵、慶慰，令其聽聞諸佛正法。"
   },
   {
-    "segmentnr":"t0682c24",
+    "segmentnr":"t0682c22",
     "original":"若彼父母為性慳貪，不樂布施，其子方便示現、勸導、讚勵、慶慰，令行布施。"
   },
   {
-    "segmentnr":"t0682c26",
+    "segmentnr":"t0682c24",
     "original":"若彼父母為性闇鈍無有勝慧，其子方便示現、勸導、讚勵、慶慰，令修勝慧。"
   },
   {
     "segmentnr":"t0682c26",
-    "original":"其子如是，乃名真實報父母恩。」"
+    "original":"其子如是，乃名真實報父母恩。」¶"
   },
   {
     "segmentnr":"t0682c27",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0682c28",
@@ -1917,7 +1929,7 @@
   },
   {
     "segmentnr":"t0683a02",
-    "original":"猶未為報恩。"
+    "original":"猶未為報恩。@"
   },
   {
     "segmentnr":"t0683a03",
@@ -1933,11 +1945,15 @@
   },
   {
     "segmentnr":"t0683a04",
-    "original":"如彼影隨形。"
+    "original":"如彼影隨形。@"
   },
   {
     "segmentnr":"t0683a05",
-    "original":"若父母先無，信、戒、聞、捨、慧，"
+    "original":"若父母先無，"
+  },
+  {
+    "segmentnr":"t0683a05",
+    "original":"信、戒、聞、捨、慧，"
   },
   {
     "segmentnr":"t0683a06",
@@ -1957,7 +1973,7 @@
   },
   {
     "segmentnr":"t0683a08",
-    "original":"令修信、戒等，究竟證涅槃。」"
+    "original":"令修信、戒等，究竟證涅槃。」@"
   },
   {
     "segmentnr":"t0683a09",
@@ -1976,11 +1992,11 @@
     "original":"謂業與智。"
   },
   {
-    "segmentnr":"t0683a11",
+    "segmentnr":"t0683a10",
     "original":"若諸有情已集諸業，其異熟果若未現前，終不盡滅。"
   },
   {
-    "segmentnr":"t0683a13",
+    "segmentnr":"t0683a11",
     "original":"若諸有情已生諸智，一切煩惱若未永除，終不捨離。"
   },
   {
@@ -1988,7 +2004,7 @@
     "original":"如是名為世有二種無欺誑法。」"
   },
   {
-    "segmentnr":"t0683a14",
+    "segmentnr":"t0683a13",
     "original":"爾時，世尊重攝此義而說頌曰："
   },
   {
@@ -2056,44 +2072,64 @@
     "original":"所謂父、母。"
   },
   {
-    "segmentnr":"t0683a25",
+    "segmentnr":"t0683a23",
     "original":"若諸有情於其父母，深心尊重、禮拜、供養，以敬愛心親近而住，生無量福。"
   },
   {
+    "segmentnr":"t0683a25",
+    "original":"諸有智人咸共稱歎，聲譽普聞，處眾無畏，後不焦惱，無悔命終。"
+  },
+  {
+    "segmentnr":"t0683a26",
+    "original":"身壞死後昇諸善趣，生於天中。¶"
+  },
+  {
     "segmentnr":"t0683a27",
-    "original":"諸有智人咸共稱歎，聲譽普聞，處眾無畏，後不焦惱，無悔命終，身壞死後昇諸善趣，生於天中。"
+    "original":"「何緣有情應於父母深心尊重、禮拜、供養，以敬愛心親近而住？"
   },
   {
     "segmentnr":"t0683a28",
-    "original":"何緣有情應於父母深心尊重、禮拜、供養，以敬愛心親近而住？"
+    "original":"父母於子有深重恩，所謂產生，慈心乳哺、洗拭將養令其長大。"
+  },
+  {
+    "segmentnr":"t0683b01",
+    "original":"供給種種資身眾具，教示世間所有儀式。"
+  },
+  {
+    "segmentnr":"t0683b02",
+    "original":"心常欲令離苦得樂，曾無暫捨，如影隨形。¶"
   },
   {
     "segmentnr":"t0683b03",
-    "original":"父母於子有深重恩，所謂產生，慈心乳哺、洗拭將養令其長大，供給種種資身眾具，教示世間所有儀式，心常欲令離苦得樂，曾無暫捨，如影隨形。"
+    "original":"「是故父母，應深敬重、禮拜、供養，以敬愛心親近而住。"
   },
   {
     "segmentnr":"t0683b04",
-    "original":"是故父母，應深敬重、禮拜、供養，以敬愛心親近而住。"
-  },
-  {
-    "segmentnr":"t0683b05",
     "original":"若諸有情，敬愛父母親近而住。"
   },
   {
-    "segmentnr":"t0683b07",
-    "original":"父母於其深心慈愍，除無益事，授有益事，制止眾惡，勸修眾善，為其娉娶貞良妻室，有時賜與珍寶財穀。"
+    "segmentnr":"t0683b05",
+    "original":"父母於其深心慈愍，除無益事，授有益事。"
   },
   {
-    "segmentnr":"t0683b08",
+    "segmentnr":"t0683b06",
+    "original":"制止眾惡，勸修眾善。"
+  },
+  {
+    "segmentnr":"t0683b06",
+    "original":"為其娉娶貞良妻室，有時賜與珍寶財穀。"
+  },
+  {
+    "segmentnr":"t0683b07",
     "original":"世間天人咸共稱歎，恭敬供養，親近加護，令無衰惱。"
   },
   {
-    "segmentnr":"t0683b10",
-    "original":"是故有情於其父母應深尊重、禮拜、供養，以敬愛心親近而住。」"
+    "segmentnr":"t0683b08",
+    "original":"是故有情於其父母應深尊重、禮拜、供養，以敬愛心親近而住。」¶"
   },
   {
-    "segmentnr":"t0683b11",
-    "original":"爾時，世尊重攝此義而說頌曰："
+    "segmentnr":"t0683b10",
+    "original":"爾時，世尊重攝此義而說頌曰：¶"
   },
   {
     "segmentnr":"t0683b12",
@@ -2109,7 +2145,7 @@
   },
   {
     "segmentnr":"t0683b13",
-    "original":"敬愛親近居。"
+    "original":"敬愛親近居。@"
   },
   {
     "segmentnr":"t0683b14",
@@ -2125,7 +2161,7 @@
   },
   {
     "segmentnr":"t0683b15",
-    "original":"常生歡喜心。"
+    "original":"常生歡喜心。@"
   },
   {
     "segmentnr":"t0683b16",
@@ -2173,7 +2209,7 @@
   },
   {
     "segmentnr":"t0683b21",
-    "original":"受妙樂無窮。"
+    "original":"受妙樂無窮。@"
   },
   {
     "segmentnr":"t0683b22",
@@ -2189,7 +2225,7 @@
   },
   {
     "segmentnr":"t0683b23",
-    "original":"當供養父母。」"
+    "original":"當供養父母。」@"
   },
   {
     "segmentnr":"t0683b24",
@@ -2197,11 +2233,19 @@
   },
   {
     "segmentnr":"t0683b25",
-    "original":"善、尋、輪、戒、學無明慧、斷除"
+    "original":"善、尋、輪、戒、學、"
+  },
+  {
+    "segmentnr":"t0683b25",
+    "original":"無明慧、斷除、"
   },
   {
     "segmentnr":"t0683b26",
-    "original":"苦、毀謗、報恩無欺誑、父母"
+    "original":"苦、毀謗、報恩、"
+  },
+  {
+    "segmentnr":"t0683b26",
+    "original":"無欺誑、父母。"
   },
   {
     "segmentnr":"t0683b27",
